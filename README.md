@@ -2,7 +2,7 @@
 I am a IIT Bombay(2020) graduate 🎓 who is into System Engineering as well as developing Deep Learning based Vision 👀 systems.  
 I will soon be joining [AWL](https://awl.co.jp/en/), Japan 🇯🇵, and will be helping the organization in improving their tech and AI offerings.
 
-A significant engineering efforts of mine have went towards prototyping, improving and optimizing deep learning models in order to serve them via multiple channels such as cloud and edge resources as per customer needs. I have hands on experience in setting up scalable cloud infrastructure, designing microservices and coming up with robust data/ETL pipelines.
+Significant engineering efforts of mine have went towards prototyping, improving and optimizing deep learning models in order to serve them via multiple channels such as cloud and edge resources as per customer needs. I have hands on experience in setting up scalable cloud infrastructure, designing microservices and coming up with robust data/ETL pipelines.
 
 - 🌱 I’m currently learning
   - Japanese 🇯🇵
