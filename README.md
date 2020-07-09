@@ -28,7 +28,7 @@ Significant engineering efforts of mine have went towards prototyping, improving
   - Why Tom Brady is going to win the next SuperBowl
 
 - 📫 How to reach me:
-  -  twitter - @alokbishoyi97
+  -  twitter - [@alokbishoyi97](https://twitter.com/alokbishoyi97)
   -  alokkumarbishoyi97[at]gmail.com
   
 - 😄 Pronouns: He/Him
