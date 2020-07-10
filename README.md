@@ -13,7 +13,7 @@ Significant engineering efforts of mine have went towards prototyping, improving
   - Dabbling with GoLang and Rust
   
 - 🔭 I’m currently working on
-  - Building and setting up data pipelines 🚰 employing Apache Beam, DataFlow and Tensorflow 🔥
+  - Building and setting up data pipelines 🚰 employing Apache Beam, Dataflow and Tensorflow 🔥
   - Lending my expertise as a tech advisor/consultant to a venture backed, silicon valley based stealth startup founded by MIT grads
   - Business Consulting for companies looking to scale up their operations and services in India 🇮🇳
   - Setting up production grade Hasura 👿 and Kubernetes for scalable workloads
