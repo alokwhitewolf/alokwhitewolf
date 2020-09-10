@@ -1,6 +1,7 @@
 ### Hi There 😃
-I am a project manager @ [AWL](https://awl.co.jp/en/), Japan 🇯🇵.
-I graguated🎓  from IIT Bombay(2020) and am into System Engineering, Product development as well as developing Deep Learning based Vision 👀 systems.  
+I currently work as a project manager @ [AWL](https://awl.co.jp/en/), Japan 🇯🇵. 
+
+I am a IIT Bombay(2020) graduate🎓 and am into System Engineering, Product development as well as developing Deep Learning based Vision 👀 systems.  
 
 
 Significant engineering efforts of mine have went towards prototyping, improving and optimizing deep learning models in order to serve them via multiple channels such as cloud and edge resources as per customer needs. I have hands on experience in setting up scalable cloud infrastructure, designing microservices and coming up with robust data/ETL pipelines.
