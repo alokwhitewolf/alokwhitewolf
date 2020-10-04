@@ -27,7 +27,6 @@ Significant engineering efforts of mine have went towards prototyping, improving
 - 💬 Ask me about
   - Why 🏈 > ⚽
   - How to productionize your deep learning model
-  - Why Tom Brady is going to win the next SuperBowl
 
 - 📫 How to reach me:
   -  twitter - [@alokbishoyi97](https://twitter.com/alokbishoyi97)
