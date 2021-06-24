@@ -1,5 +1,5 @@
 ### Hi There 😃
-I currently work as a project manager @ [AWL](https://awl.co.jp/en/), Japan 🇯🇵. 
+I currently work as a product manager @ [AWL](https://awl.co.jp/en/), Japan 🇯🇵. 
 
 I am a IIT Bombay(2020) graduate🎓 and am into System Engineering, Product development as well as developing Deep Learning based Vision 👀 systems.  
 
